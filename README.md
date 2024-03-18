@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JavaScript and discord.js
+
 <!--
 **ShaunTheGood/ShaunTheGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
