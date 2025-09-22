@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript and discord.js
+- 🌱 I’m currently learning GCP and BigQuery.
 
 <!--
 **ShaunTheGood/ShaunTheGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
